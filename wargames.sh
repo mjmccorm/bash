@@ -40,7 +40,7 @@ echo "FINE." | festival --tts
 #print map
 
 echo "WHICH SIDE DO YOU WANT?"
-echo "WHICH SIDE DO YOU WANT?" | fesival --tts
+echo "WHICH SIDE DO YOU WANT?" | festival --tts
 
 echo "1.  UNITED STATES"
 echo "2.  SOVIET UNION"
